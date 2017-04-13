@@ -1,0 +1,47 @@
+/*General style*/
+
+body{
+    background-color:White;
+}
+
+.container {
+    width: 85%
+    
+}
+option{
+    background-color: #003158;
+    color:white; /*blue*/
+}
+
+h2{
+    font-weight: bold;
+    color: #003158;
+}
+p{
+    font-size: 12pt;
+    text-align: center
+}
+
+p.name {
+    font-weight: 500;
+}
+
+.img-responsive {
+ display: block;
+max-width: 100%;
+}
+
+
+.btn {
+    background: #3d3d3d;
+}
+
+
+a.btn a:hover {
+    background:gray;
+}
+
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    background-color: Black;
+}
